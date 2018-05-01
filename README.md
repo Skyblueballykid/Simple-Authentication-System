@@ -1,3 +1,3 @@
 ### Simple-Authentication-System
 
-This is a simple authentication system written in Java.
+This is a toy authentication system written in Java that I did for a class.
